@@ -1,0 +1,49 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1 {
+    font-size: 45px;
+}
+
+h1, .home{
+color: goldenrod;
+}
+
+button {
+    background-color: black;
+}
+
+a:link, a:visited{
+    color: goldenrod;
+}
+
+a:hover, a:active {
+    background-color: rgb(114, 87, 19);
+  }
+
+  h2 {
+    color: goldenrod;
+  }
+  
+  img {
+    border-image-outset: 2cap;
+  }
+
+  p, ul, ol{
+    color: rgb(173, 172, 172);
+  }
+
+  h4, h3 {
+    color: rgb(189, 143, 29);
+  }
+
+  .ava{
+    width: 500px; height: 600px;
+  }
+
+  * {
+    
+     outline: 2px solid red;
+      
+  }
